@@ -5,7 +5,8 @@
 ## 🔭 I’m currently working on 
 
 [Hellobar](https://hellobar.com) - Convert 83% More Visitors into Leads, Subscribers, & Buyers
-[SUBSCRIBERS](https://subscribers.com) - Smarter Push Notifications For Desktop And Mobile
+
+[Subscribers](https://subscribers.com) - Smarter Push Notifications For Desktop And Mobile
 
 ## 🌱 I’m currently learning 
 
@@ -34,9 +35,9 @@
 
 ## 📈 Stats
 
-[![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=webgago&style=--header-bg-color:%23000;--border-radius:10px)](https://profile.codersrank.io/user/webgago)
+[![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=webgago&style=--header-bg-color:%23000;--border-radius:10px&1)](https://profile.codersrank.io/user/webgago)
 
-[![GitHub](https://github-readme-stats.vercel.app/api?username=webgago&count_private=true&show_icons=true&theme=dark&icon_color=29b6f6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub](https://github-readme-stats.vercel.app/api?username=webgago&count_private=true&show_icons=true&theme=dark&icon_color=29b6f6&hide_border=true&1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![StackOverflow](https://stackoverflow.com/users/flair/755742.png?theme=dark)](https://stackoverflow.com/users/755742/anton)
