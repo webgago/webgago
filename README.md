@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=AntonSozontov.webgago&color=24292f)
-
 ## 🔭 I’m currently working on 
 
 [Workato](https://workato.com) - One platform for intelligent integration & workflow automation across your organization
